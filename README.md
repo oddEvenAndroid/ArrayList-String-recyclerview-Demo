@@ -1,6 +1,7 @@
 # ArrayList-String-recyclerview-Demo
 
 
+```json
 {
   "statusCode": 200,
   "success": true,
@@ -27,3 +28,4 @@
     }
   ]
 }
+```
